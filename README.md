@@ -1,5 +1,5 @@
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Guilherme Rodrigues</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosguilherm&color=blueviolet" alt="Profile views" /> </p>
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Guilherme Paixão</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermePaixaoDev&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/MarcosGuilherm/MarcosGuilherm/blob/main/animation_500_kv8i962g.gif?raw=true"/>
 
 I am passionate about systems development, my biggest dream is to be able to positively impact people's lives through development. 
@@ -29,7 +29,7 @@ I'm a programming student  :computer:
  <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guiurodrigues&show_icons=true&theme=nightowl" alt="biro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePaixaoDev&show_icons=true&theme=nightowl" alt="biro's stats"/>
 </p>
 
 ##
