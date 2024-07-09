@@ -6,7 +6,7 @@ I am passionate about systems development, my biggest dream is to be able to pos
 
 I'm a programming student  :computer:
 :rocket: &nbsp;
- <br/> I'm working at  **Fortics - Requirements analyst|.**
+ <br/> I'm working at  **Fortics - Requirements analyst.**
  <br/> :blue_heart: &nbsp; Seeking to join Front-end 
  <br/> :blush: &nbsp; I accept any opportunity up to internships in the development area 
  <br/> :computer: &nbsp; My study stack is currently : ReactJS, Next.js, Node.js, HTML, CSS, JavaScript & Typescript
